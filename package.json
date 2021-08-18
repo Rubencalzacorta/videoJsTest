@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "video.js": "^7.14.3"
+  },
+  "dependencies": {
+    "videojs-offset": "^2.1.3"
   }
 }
